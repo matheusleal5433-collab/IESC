@@ -41,7 +41,7 @@ A competitividade no setor de software está diretamente ligada à geração de 
 A competitividade começa quando a organização oferece algo superior ou diferenciado em relação ao que já existe no mercado, seja em desempenho, segurança, experiência do usuário ou modelo operacional.
 
 Esse processo exige tomada de decisão estratégica, melhoria contínua e investimento em pesquisa e desenvolvimento (P&D), evitando a obsolescência tecnológica e garantindo excelência técnica e operacional ao longo do tempo.
-```
+
 
 # Inovação na Área de Software
 
@@ -85,4 +85,4 @@ A competitividade no setor de software está diretamente ligada à geração de 
 A competitividade começa quando a organização oferece algo superior ou diferenciado em relação ao que já existe no mercado, seja em desempenho, segurança, experiência do usuário ou modelo operacional.
 
 Esse processo exige tomada de decisão estratégica, melhoria contínua e investimento em pesquisa e desenvolvimento (P&D), evitando a obsolescência tecnológica e garantindo excelência técnica e operacional ao longo do tempo.
-```
+``````
